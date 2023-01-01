@@ -15,3 +15,4 @@
 ## Database
 
 - [PreparedStatement](database/prepared-statement.md)
+- [Connection Pool](database/connection-pool.md)
