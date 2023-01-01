@@ -10,6 +10,7 @@
 - [forward 방법](servlet/forward.md)
 - [binding 방법](servlet/binding.md)
 - [ServletContext & ServletConfig](servlet/servlet-context-config.md)
+- [load-on-startup](servlet/load-on-startup.md)
 
 ## HTTP
 
