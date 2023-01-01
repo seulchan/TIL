@@ -8,6 +8,7 @@
 - [서블릿 응답과 요청 수행](servlet/client-servlet.md)
 - [클라이언트에서 \<form\> tag를 이용해서 서블릿에 요청하고 응답받기](servlet/form-tag.md)
 - [forward 방법](servlet/forward.md)
+- [binding 방법](servlet/binding.md)
 
 ## HTTP
 
