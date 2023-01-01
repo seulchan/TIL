@@ -13,4 +13,4 @@
 
 <br />
 
-From <자바 웹을 다루는 기술> by 이병승
+Excerpt From <자바 웹을 다루는 기술> by 이병승

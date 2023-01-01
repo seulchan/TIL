@@ -34,4 +34,4 @@ HttpServletRequest 클래스에서 \<form\> 태그로 전송된 데이터를 받
 
 <br />
 
-From <자바 웹을 다루는 기술> by 이병승
+Excerpt From <자바 웹을 다루는 기술> by 이병승
