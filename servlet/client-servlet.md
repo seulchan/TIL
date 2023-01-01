@@ -6,6 +6,6 @@
 
 톰캣이 사용자의 요청에 대한 정보를 모든 HttpServletRequest 객체의 속성으로 담아 메서드로 전달하므로 각 HttpServletRequest에서 제공하는 메서드들은 매개변수로 넘어온 객체들을 이용하여 사용자가 전송한 데이터를 받아 오거나 응답할 수 있는 것입니다.
 
-<br />
+&nbsp;
 
 Excerpt From <자바 웹을 다루는 기술> by 이병승
