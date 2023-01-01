@@ -14,4 +14,4 @@
 
 ## Database
 
-- [PreparedStatement?](database/prepared-statement.md)
+- [PreparedStatement](database/prepared-statement.md)
