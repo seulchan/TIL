@@ -5,13 +5,19 @@
 
 ## 서블릿의 동작 과정
 
-![서블릿의 동작 과정](../images/servlet-whole-process.png)
+&nbsp;
+
+<img src="../images/servlet-whole-process.png" alt="servlet-process" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
+
+&nbsp;
 
 클라이언트가 웹 서버에 요청하면 웹 서버는 그 요청을 톰캣과 같은 웹 애플리케이션 서버에 위임합니다. 그러면 WAS는 각 요청에 해당하는 서블릿을 실행합니다. 그리고 서블릿은 요청에 대한 기능을 수행한 후 결과를 반환하여 클라이언트에 전송합니다.
 
 &nbsp;
 
-![서블릿의 동작 과정 - 상세](../images/servlet-process-detail.png)
+<img src="../images/servlet-process-detail.png" alt="servlet-process-detail" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
+
+&nbsp;
 
 클라이언트 1이 요청하면 톰캣은 FirstServlet이 메모리에 로드되어 있는지 확인합니다. 최초의 요청이므로 init() 메서드를 호출하여 FirstServlet 인스턴스를 메모리에 로드합니다. 그런 다음 doGet()이나 doPost() 메서드를 호출하여 서비스를 합니다.
 

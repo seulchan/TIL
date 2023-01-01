@@ -14,7 +14,11 @@
 3. 생성된 커넥션 객체는 DBMS와 연결
 4. 데이터베이스와의 연동 작업이 필요할 경우 응용 프로그램은 ConnectionPool에서 제공하는 메서드를 호출하여 연동
 
-![connection-pool](../images/jdbc-connection-pool.png)
+&nbsp;
+
+<img src="../images/jdbc-connection-pool.png" alt="connection-pool" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
+
+&nbsp;
 
 톰캣 컨테이너는 자체적으로 ConnectionPool 기능을 제공합니다. 톰캣 실행 시 톰캣은 설정 파일에 설정된 데이터베이스 정보를 이용해 미리 데이터베이스와 연결하여 ConnectionPool 객체를 생성한 후 애플리케이션이 데이터베이스와 연동할 일이 생기면 ConnectionPool 객체의 메서드를 호출해 빠르게 연동하여 작업합니다.
 
