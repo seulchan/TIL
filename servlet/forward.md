@@ -35,9 +35,7 @@
 
 - dispatch를 이용한 포워딩 과정이 redirect 방법과 다른 점은 클라이언트의 웹 브라우저를 거치지 않고 바로 서버에서 포워딩이 진행된다는 것입니다. 따라서 웹 브라우저 주소창의 URL이 변경되지 않습니다. 즉, 클라이언트 측에서는 포워드가 진행되었는지 알 수 없습니다.
 
-<p style="text-align:center;">
-<img src="../images/dispatch-redirect.png" alt="forward" width="500"/>
-</p>
+<img src="../images/dispatch-redirect.png" alt="forward" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 &nbsp;
 
