@@ -15,6 +15,7 @@
 ## HTTP
 
 - [GET 방식과 POST 방식 비교](http/get-post.md)
+- [Session Tracking](http/session-tracking.md)
 
 ## Database
 
