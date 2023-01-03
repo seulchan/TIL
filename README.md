@@ -11,6 +11,7 @@
 - [binding 방법](servlet/binding.md)
 - [ServletContext & ServletConfig](servlet/servlet-context-config.md)
 - [load-on-startup](servlet/load-on-startup.md)
+- [서블릿 속성과 스코프](servlet/attr-scope.md)
 
 ## HTTP
 

@@ -86,6 +86,7 @@ public class SecondServlet extends HttpServlet {
     }
 }
 ```
+
 화면에 정상적으로 주소가 출력됩니다. 이 포워딩 과정을 보면 첫 번째 서블릿에서 두 번째 서블릿으로 전달되는 request가 브라우저를 거치지 않고 바로 전달되었습니다. 따라서 첫 번째 서블릿의 request에 바인딩된 데이터가 그대로 전달된 것입니다.
 
 &nbsp;
