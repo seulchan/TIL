@@ -44,3 +44,5 @@ Include Directive Tag를 이용해 JSP 페이지를 요청하면 요청하는 JS
 <img src="../images/jsp-include-tag.png" alt="jsp-include" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 &nbsp;
+
+Excerpt From <자바 웹을 다루는 기술> by 이병승
