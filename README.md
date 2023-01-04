@@ -16,7 +16,7 @@
 
 ## JSP
 
-- [JSP의 등장 배경](jsp/jsp-background.md)
+- [JSP 등장 배경과 구성 요소](jsp/jsp-background.md)
 
 ## HTTP
 
