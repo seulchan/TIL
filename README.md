@@ -16,7 +16,8 @@
 
 ## JSP
 
-- [JSP 등장 배경과 구성 요소](jsp/jsp-background.md)
+- [JSP란?](jsp/jsp-background.md)
+- [JSP 페이지 구성 요소](jsp/jsp-page-elements.md)
 
 ## HTTP
 

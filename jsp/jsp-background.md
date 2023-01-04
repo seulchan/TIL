@@ -27,4 +27,12 @@
 
 &nbsp;
 
+## JSP 변환 과정
+
+1. 변환 단계 (Translation Step): 컨테이너는 JSP 파일을 자바 파일로 변환
+2. 컴파일 단계 (Compile Step): 컨테이너는 변환된 자바 파일을 클래스 파일로 컴파일
+3. 실행 단계 (Interpret Step): 컨테이너는 클래스 파일을 실행하여 그 결과(HTML, CSS와 자바스크립트 코드)를 브라우저로 전송해 출력
+
+&nbsp;
+
 Excerpt From <자바 웹을 다루는 기술> by 이병승
