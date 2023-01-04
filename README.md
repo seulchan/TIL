@@ -14,6 +14,10 @@
 - [서블릿 속성과 스코프](servlet/attr-scope.md)
 - [Filter API](servlet/filter.md)
 
+## JSP
+
+- [JSP의 등장 배경](jsp/jsp-background.md)
+
 ## HTTP
 
 - [GET 방식과 POST 방식 비교](http/get-post.md)
