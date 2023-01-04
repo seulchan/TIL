@@ -1,4 +1,4 @@
-## GET 방식과 POST 방식 비교
+# GET 방식과 POST 방식 비교
 
 |GET 방식   | POST 방식   |
 |---|---|

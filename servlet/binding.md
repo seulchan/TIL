@@ -1,4 +1,4 @@
-## 바인딩
+# 바인딩
 
 서블릿에서 조회한 대량의 상품 정보를 JSP로 전달할 때는 GET 방식이 불편합니다. 따라서 서블릿에서 다른 서블릿 또는 JSP로 대량의 데이터를 공유하거나 전달하고 싶을 때는 바인딩(binding) 기능을 사용합니다.
 
@@ -6,7 +6,7 @@
 
 &nbsp;
 
-### 서블릿 객체에서 사용되는 바인딩 관련 메서드
+## 서블릿 객체에서 사용되는 바인딩 관련 메서드
 
 |관련 메서드   | 기능 |
 |---|---|
@@ -16,7 +16,7 @@
 
 &nbsp;
 
-### HttpServletRequest를 이용한 redirect 포워딩 시 바인딩
+## HttpServletRequest를 이용한 redirect 포워딩 시 바인딩
 
 ```java
 @WebServlet("/first")
@@ -54,7 +54,7 @@ public class SecondServlet extends HttpServlet {
 
 &nbsp;
 
-### HttpServletRequest를 이용한 dispatch 포워딩 시 바인딩
+## HttpServletRequest를 이용한 dispatch 포워딩 시 바인딩
 
 ```java
 @WebServlet("/first")
