@@ -19,6 +19,8 @@ JSP 페이지에서 사용되는 여러 가지 구성 요소들은 다음과 같
 - Include Directive Tage: 공통으로 사용하는 JSP 페이지를 다른 JSP 페이지에 추가할 때 사용합니다.
 - Taglib Directive Tag: 개발자나 프레임워크에서 제공하는 태그를 사용할 때 사용합니다.
 
+&nbsp;
+
 ### Page Directive Tag
 
 서블릿에서는 필요한 클래스 파일은 import 문을 이용해서 일일이 설정해 주었습니다. 하지만 이제 JSP 페이지에서 Page Directive Tag를 이용해서 설정합니다. 그리고 import 속성을 제외한 다른 속성은 한 번만 선언해 주어야 합니다.
@@ -28,6 +30,8 @@ JSP 페이지에서 사용되는 여러 가지 구성 요소들은 다음과 같
 ```jsp
 <%@ page 속성1="값1" 속성2="값2" 속성3="값3" ... %>
 ```
+
+&nbsp;
 
 ### Include Directive Tag
 
