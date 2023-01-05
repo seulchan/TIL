@@ -20,6 +20,7 @@
 - [JSP 페이지 구성 요소](jsp/jsp-page-elements.md)
 - [JSP 스크립트 요소](jsp/jsp-scripting.md)
 - [JSP 액션 태그](jsp/jsp-action.md)
+- [표현 언어](jsp/jsp-expression-language.md)
 
 ## HTTP
 
