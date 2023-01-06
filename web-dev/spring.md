@@ -26,3 +26,6 @@
 > -  제어 역행(IoC, Inversion of Control): 서블릿이나 빈 등을 개발자가 코드에서 생성하지 않고 프레임워크가 직접 수행하는 방법
 > - 관점 지향(AOP, Aspect Oriented Programming): 핵심 기능 외 부수 기능들을 분리 구현함으로써 모듈성을 증가시키는 방법
 
+&nbsp;
+
+Excerpt From <자바 웹을 다루는 기술> by 이병승
