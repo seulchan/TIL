@@ -34,3 +34,8 @@
 
 - [PreparedStatement](database/prepared-statement.md)
 - [Connection Pool](database/connection-pool.md)
+
+## Web Dev
+
+- [웹 애플리케이션 모델](web-dev/web-application-model.md)
+- [MVC 디자인 패턴](web-dev/mvc-design-pattern.md)
