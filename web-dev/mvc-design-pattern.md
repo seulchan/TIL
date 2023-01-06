@@ -37,3 +37,7 @@ MVC란 Model-View-Controller의 약자로, 일반 PC 프로그램 개발에 사�
 
 - JSP가 화면 기능을 담당합니다.
 - Model에서 처리한 결과를 화면에 표시합니다.
+
+&nbsp;
+
+Excerpt From <자바 웹을 다루는 기술> by 이병승
