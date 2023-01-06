@@ -41,3 +41,4 @@
 - [MVC 디자인 패턴](web-dev/mvc-design-pattern.md)
 - [답변형 게시판 MVC 구조](web-dev/board-mvc.md)
 - [Spring Framework](web-dev/spring.md)
+- [Spring 의존성 주입](web-dev/spring-di.md)
