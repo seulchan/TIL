@@ -6,6 +6,7 @@
 - [Connection Pool](database/connection-pool.md)
 - [Common SQL Commands](database/sql-commands.md)
 - [Tables](database/table.md)
+- [Database Structure](database/db-structure.md)
 
 ## Network
 
