@@ -25,10 +25,6 @@
   
 ## HTTP
 
-- [GET 방식과 POST 방식 비교](http/get-post.md)
-- [Session Tracking](http/session-tracking.md)
-- [Cookie](http/cookie.md)
-- [Session](http/session.md)
 
 ## Database
 
@@ -48,3 +44,7 @@
 
 - [HTTP 기본 개념](network/http.md)
 - [Request & Response Message](network/request-response.md)
+- [GET 방식과 POST 방식 비교](network/get-post.md)
+- [Session Tracking](network/session-tracking.md)
+- [Cookie](network/cookie.md)
+- [Session](network/session.md)
