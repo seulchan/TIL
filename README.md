@@ -24,9 +24,13 @@
 - [웹 애플리케이션 모델](web-dev/web-application-model.md)
 - [MVC 디자인 패턴](web-dev/mvc-design-pattern.md)
 - [답변형 게시판 MVC 구조](web-dev/board-mvc.md)
-- [Spring Framework](web-dev/spring.md)
-- [Spring 의존성 주입](web-dev/spring-di.md)
-- [Spring AOP](web-dev/spring-aop.md)
+  
+## Spring
+
+- [Spring Framework](spring/spring.md)
+- [Spring 의존성 주입](spring/spring-di.md)
+- [Spring AOP](spring/spring-aop.md)
+- [Spring MVC](spring/spring-mvc.md)
 
 ## Servlet
 
