@@ -14,6 +14,7 @@
 - [Cookie](network/cookie.md)
 - [Session](network/session.md)
 - [TCP/IP 네트워크](network/tcp-ip.md)
+- [DNS 리졸버](network/dns-resolver.md)
 
 ## Web Dev
 
