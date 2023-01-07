@@ -1,6 +1,29 @@
 # TIL
 
-## 서블릿
+## Database
+
+- [PreparedStatement](database/prepared-statement.md)
+- [Connection Pool](database/connection-pool.md)
+
+## Network
+
+- [HTTP 기본 개념](network/http.md)
+- [Request & Response Message](network/request-response.md)
+- [GET 방식과 POST 방식 비교](network/get-post.md)
+- [Session Tracking](network/session-tracking.md)
+- [Cookie](network/cookie.md)
+- [Session](network/session.md)
+
+## Web Dev
+
+- [웹 애플리케이션 모델](web-dev/web-application-model.md)
+- [MVC 디자인 패턴](web-dev/mvc-design-pattern.md)
+- [답변형 게시판 MVC 구조](web-dev/board-mvc.md)
+- [Spring Framework](web-dev/spring.md)
+- [Spring 의존성 주입](web-dev/spring-di.md)
+- [Spring AOP](web-dev/spring-aop.md)
+
+## Servlet
 
 - [서블릿의 동작 과정](servlet/servlet-operation.md)
 - [서블릿의 생명주기(Life Cycle) 메서드](servlet/servlet-life-cycle-method.md)
@@ -22,29 +45,3 @@
 - [JSP 액션 태그](jsp/jsp-action.md)
 - [표현 언어](jsp/jsp-expression-language.md)
 - [커스텀 태그](jsp/jsp-custom.md)
-  
-## HTTP
-
-
-## Database
-
-- [PreparedStatement](database/prepared-statement.md)
-- [Connection Pool](database/connection-pool.md)
-
-## Web Dev
-
-- [웹 애플리케이션 모델](web-dev/web-application-model.md)
-- [MVC 디자인 패턴](web-dev/mvc-design-pattern.md)
-- [답변형 게시판 MVC 구조](web-dev/board-mvc.md)
-- [Spring Framework](web-dev/spring.md)
-- [Spring 의존성 주입](web-dev/spring-di.md)
-- [Spring AOP](web-dev/spring-aop.md)
-
-## Network
-
-- [HTTP 기본 개념](network/http.md)
-- [Request & Response Message](network/request-response.md)
-- [GET 방식과 POST 방식 비교](network/get-post.md)
-- [Session Tracking](network/session-tracking.md)
-- [Cookie](network/cookie.md)
-- [Session](network/session.md)
