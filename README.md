@@ -4,6 +4,8 @@
 
 - [PreparedStatement](database/prepared-statement.md)
 - [Connection Pool](database/connection-pool.md)
+- [Common SQL Commands](database/sql-commands.md)
+- [Tables](database/table.md)
 
 ## Network
 
