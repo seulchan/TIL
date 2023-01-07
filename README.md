@@ -47,4 +47,4 @@
 ## Network
 
 - [HTTP 기본 개념](network/http.md)
-- [Request & Response](network/request-response.md)
+- [Request & Response Message](network/request-response.md)
