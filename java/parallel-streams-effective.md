@@ -3,7 +3,7 @@
 - If in doubt, measure!
     > Turning a sequential stream into a parallel one is trivial but not always the right thing to do. As we already demonstrated in this section, a parallel stream isn’t always faster than the corresponding sequential version. Moreover, parallel streams can sometimes work in a counterintuitive way, so the first and most important suggestion when choosing between sequential and parallel streams is to always check their performance with an appropriate benchmark.
 - Watch out for boxing
-    > Automatic boxing and unboxing operations can dramatically hurt performance. Java 8 includes primitive streams (IntStream, Long- Stream, and DoubleStream) to avoid such operations, so use them when possible.
+    > Automatic boxing and unboxing operations can dramatically hurt performance. Java 8 includes primitive streams (IntStream, LongStream, and DoubleStream) to avoid such operations, so use them when possible.
 - Some operations naturally perform worse on a parallel stream than on a sequential stream.
     > In particular, operations such as limit and findFirst that rely on the order of the elements are expensive in a parallel stream. For example, findAny will perform better than findFirst because it isn’t constrained to operate in the encounter order. You can always turn an ordered stream into an unordered stream by invoking the method unordered on it. For instance, if you need N elements of your stream and you’re not necessarily interested in the first N ones, calling limit on an unordered parallel stream may execute more efficiently than on a stream with an encounter order (for example, when the source is a List).
 - Consider the total computational cost of the pipeline of operations performed by the stream. 
