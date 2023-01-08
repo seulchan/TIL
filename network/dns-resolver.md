@@ -27,3 +27,5 @@ DNS 서버에 조회한다는 것은 DNS 서버에 조회 메시지를 보내고
 <img src="../images/dns-resolver.png" alt="resolver" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 &nbsp;
+
+Excerpt From <성공과 실패를 결정하는 1%의 네트워크 원리> by Tsutomu Tone
