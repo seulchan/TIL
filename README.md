@@ -18,6 +18,7 @@
 - [Session](network/session.md)
 - [TCP/IP 네트워크](network/tcp-ip.md)
 - [DNS 리졸버](network/dns-resolver.md)
+- [DNS 서버](network/dns-server.md)
 
 ## Java
 
