@@ -57,4 +57,4 @@
 
 ## Java
 
-[Using Parallel Streams Effectively](java/parallel-streams-effective.md)
+- [Using Parallel Streams Effectively](java/parallel-streams-effective.md)
