@@ -19,18 +19,15 @@
 - [TCP/IP 네트워크](network/tcp-ip.md)
 - [DNS 리졸버](network/dns-resolver.md)
 
+## Java
+
+- [Using Parallel Streams Effectively](java/parallel-streams-effective.md)
+
 ## Web Dev
 
 - [웹 애플리케이션 모델](web-dev/web-application-model.md)
 - [MVC 디자인 패턴](web-dev/mvc-design-pattern.md)
 - [답변형 게시판 MVC 구조](web-dev/board-mvc.md)
-  
-## Spring
-
-- [Spring Framework](spring/spring.md)
-- [Spring 의존성 주입](spring/spring-di.md)
-- [Spring AOP](spring/spring-aop.md)
-- [Spring MVC](spring/spring-mvc.md)
 
 ## Servlet
 
@@ -55,6 +52,9 @@
 - [표현 언어](jsp/jsp-expression-language.md)
 - [커스텀 태그](jsp/jsp-custom.md)
 
-## Java
+## Spring
 
-- [Using Parallel Streams Effectively](java/parallel-streams-effective.md)
+- [Spring Framework](spring/spring.md)
+- [Spring 의존성 주입](spring/spring-di.md)
+- [Spring AOP](spring/spring-aop.md)
+- [Spring MVC](spring/spring-mvc.md)
