@@ -21,7 +21,7 @@ DNS 서버의 기본 동작은 클라이언트에서 조회 메시지를 받고 
 
 &nbsp;
 
-<img src="../images/dns-record-type.png" alt="dns-record" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
+<img src="../images/dns-record-type.png" alt="dns-record" width="800" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 &nbsp;
 
@@ -51,7 +51,7 @@ DNS 서버에 등록한 정보에는 모든 도메인명이라는 계층적 구�
 
 &nbsp;
 
-<img src="../images/how-dns-works.png" alt="dns-work" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
+<img src="../images/how-dns-works.png" alt="dns-work" width="800" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 &nbsp;
 
