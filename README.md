@@ -7,7 +7,6 @@
 - [Common SQL Commands](database/sql-commands.md)
 - [Tables](database/table.md)
 - [Database Structure](database/db-structure.md)
-- [마이바티스](database/mybatis.md)
 
 ## Network
 
@@ -61,3 +60,6 @@
 - [Spring 의존성 주입](spring/spring-di.md)
 - [Spring AOP](spring/spring-aop.md)
 - [Spring MVC](spring/spring-mvc.md)
+- [마이바티스](spring/mybatis.md)
+- [Transaction](spring/transaction.md)
+
