@@ -10,6 +10,7 @@
 - [Database Schema](database/db-schema.md)
 - [Relational Model](database/relational-model.md)
 - [Entity Relationship Diagram](database/erd.md)
+- [Data Normalization](database/data-norm.md)
 
 ## Network
 
