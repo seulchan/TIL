@@ -42,6 +42,8 @@ Degree is the number of columns or attributes within a relation. A student table
 
 Cardinality refers to how many records there are within a particular table in a database. If you have 100 students in your student table, with all their information organized into individual rows, then that table has a cardinality of 100.
 
+&nbsp;
+
 ## What are constraints?
 
 In the relational model, every relation needs to meet three conditions. These three conditions must be met for a relation to be valid. They are called relational integrity constraints and they are: 
@@ -61,6 +63,8 @@ Domain constraints are all about the requirement of inserting values that have a
 ### Referential integrity constraints
 
 A database has multiple tables that refer to one another. Referential integrity constraints are based on the concept of foreign keys. A foreign key is a key attribute present in a table, which is also a primary key of another table to which it needs to be linked. Through this key, it references the other table to which it’s related. For example, the order ID is present in the Order_Item table as a foreign key, which is also the primary key of the order table. So, the order table and the Order_Item table are related to each other because the Order_Item table references the order table via the order ID attribute. The referential integrity constraint states that if a relation refers to a key attribute of another relation, then that key element must exist. In other words, there must be matching values in the two tables for that attribute.
+
+&nbsp;
 
 ## Types of relationships
 

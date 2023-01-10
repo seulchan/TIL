@@ -9,6 +9,7 @@
 - [Database Structure](database/db-structure.md)
 - [Database Schema](database/db-schema.md)
 - [Relational Model](database/relational-model.md)
+- [Entity Relationship Diagram](database/erd.md)
 
 ## Network
 
