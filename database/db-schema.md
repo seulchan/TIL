@@ -69,6 +69,3 @@ In other words, it prevents you from ending up with a database design that requi
 &nbsp;
 
 (sourece: https://www.coursera.org/learn/introduction-to-databases)
-
-
-
