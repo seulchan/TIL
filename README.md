@@ -8,6 +8,7 @@
 - [Tables](database/table.md)
 - [Database Structure](database/db-structure.md)
 - [Database Schema](database/db-schema.md)
+- [Relational Model](database/relational-model.md)
 
 ## Network
 
