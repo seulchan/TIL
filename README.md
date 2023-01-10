@@ -7,6 +7,7 @@
 - [Common SQL Commands](database/sql-commands.md)
 - [Tables](database/table.md)
 - [Database Structure](database/db-structure.md)
+- [Database Schema](database/db-schema.md)
 
 ## Network
 
