@@ -56,4 +56,4 @@ The three entities can be listed as three separate tables.
 
 &nbsp;
 
-(sourece: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))
+(source: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))

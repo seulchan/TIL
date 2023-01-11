@@ -115,4 +115,4 @@ Usually, many-to-many relationships are not kept in a data model. They are broke
 
 &nbsp;
 
-(sourece: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))
+(source: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))

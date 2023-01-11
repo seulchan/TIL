@@ -134,4 +134,4 @@ The TCL commands are used to manage transactions in the database. These are used
 
 &nbsp;
 
-(sourece: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))
+(source: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))

@@ -46,4 +46,4 @@ Downtime or issues in production is damaging for a company as it does not instil
 
 &nbsp;
 
-(sourece: [Introduction to Version Control](https://www.coursera.org/learn/introduction-to-version-control/))
+(source: [Introduction to Version Control](https://www.coursera.org/learn/introduction-to-version-control/))

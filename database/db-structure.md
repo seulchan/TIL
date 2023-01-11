@@ -78,4 +78,4 @@ In the physical database structure, where entities are implemented as tables, th
 
 &nbsp;
 
-(sourece: https://www.coursera.org/learn/introduction-to-databases)
+(source: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))

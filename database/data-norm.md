@@ -143,4 +143,4 @@ The third normal form is typically good enough to deal with the three anomaly ch
 
 &nbsp;
 
-(sourece: https://www.coursera.org/learn/introduction-to-databases)
+(source: [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases))
