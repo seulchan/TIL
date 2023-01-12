@@ -74,3 +74,8 @@
 ## Data Structures and Algorithms
 
 - [Big-O Notation](dsa/big-o.md)
+
+## Dev
+
+- [OOP Principles](dev/oop.md)
+- [Inheritance and Multiple Inheritance](dev/multi-inheritance.md)
