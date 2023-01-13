@@ -81,3 +81,7 @@
 - [OOP Principles](dev/oop.md)
 - [Inheritance and Multiple Inheritance](dev/multi-inheritance.md)
 - [Modules, libraries and packages](dev/mlp.md)
+
+## Django
+
+- [Django Project Structure](django/project-structure.md)
