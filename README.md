@@ -11,6 +11,7 @@
 - [Relational Model](database/relational-model.md)
 - [Entity Relationship Diagram](database/erd.md)
 - [Data Normalization](database/data-norm.md)
+- [Join](database/join.md)
 
 ## Network
 
