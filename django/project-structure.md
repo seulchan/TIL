@@ -254,3 +254,7 @@ The server starts running at port 8000 of the localhost with IP address 127.0.0.
 If you get this output, the project has been created successfully.
 
 In this reading, you learned how to create a Django project. The file structure of the project has also been explained here. In the end, the installation of the project has been successfully verified.
+
+&nbsp;
+
+(source: [Django Web Framework](https://www.coursera.org/learn/django-web-framework/))

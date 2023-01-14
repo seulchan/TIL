@@ -85,3 +85,4 @@
 ## Django
 
 - [Django Project Structure](django/project-structure.md)
+- [Django App Structure](django/app-structure.md)
