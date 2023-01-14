@@ -1,4 +1,4 @@
-# Django App Structures
+# App Structures
 
 A Django project is a web application that may consist of one or more sub-modules called apps. 
 

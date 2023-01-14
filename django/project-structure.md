@@ -1,4 +1,4 @@
-# Django Project Structure
+# Project Structure
 
 When installing Django globally or in a virtual environment, Python recommends using isolated environment libraries and other dependencies required for a particular application.
 
