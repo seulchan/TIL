@@ -4,7 +4,7 @@ OSI 7계층은 참조형 모델이고 실제로 사용하는 프로토콜은 TCP
 
 &nbsp;
 
-<img src="../images/osi-tcp.png" alt="http" width="600" style="margin-left: auto; margin-right: auto; display: block;"/>
+<img src="../images/osi-tcp.png" alt="osi-tcp" width="600" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 &nbsp;
 
