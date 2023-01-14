@@ -26,6 +26,7 @@
 - [DNS 서버](network/dns-server.md)
 - [소켓을 이용한 데이터 송수신](network/socket.md)
 - [OSI 7계층과 TCP/IP](network/osi-7.md)
+- [OSI 7계층별 이해](network/osi-7-detail.md)
 
 ## Java
 
