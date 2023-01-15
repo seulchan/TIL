@@ -13,6 +13,7 @@
 - [Data Normalization](database/data-norm.md)
 - [Join](database/join.md)
 - [MySql REPLACE Statement](database/replace.md)
+- [Types of MySQL constraints](database/mysql-constraints.md)
 
 ## Network
 
