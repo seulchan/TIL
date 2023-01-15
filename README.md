@@ -12,6 +12,7 @@
 - [Entity Relationship Diagram](database/erd.md)
 - [Data Normalization](database/data-norm.md)
 - [Join](database/join.md)
+- [MySql REPLACE Statement](database/replace.md)
 
 ## Network
 
