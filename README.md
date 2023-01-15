@@ -16,6 +16,7 @@
 - [Types of MySQL constraints](database/mysql-constraints.md)
 - [ALTER TABLE statement and its uses](database/alter-table.md)
 - [Subqueries](database/subqueries.md)
+- [Virtual tables](database/virtual-tables.md)
 
 ## Network
 
