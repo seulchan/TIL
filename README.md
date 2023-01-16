@@ -18,6 +18,7 @@
 - [Subqueries](database/subqueries.md)
 - [Virtual tables](database/virtual-tables.md)
 - [Functions in MySql](database/functions.md)
+- [MySql Stored Procedures](database/stored-procedures.md)
 
 ## Network
 
