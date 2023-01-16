@@ -97,3 +97,4 @@
 - [Project Structure](django/project-structure.md)
 - [App Structure](django/app-structure.md)
 - [MVT](django/mvt.md)
+- [View Logic](django/view-logic.md)
