@@ -98,3 +98,4 @@
 - [App Structure](django/app-structure.md)
 - [MVT](django/mvt.md)
 - [View Logic](django/view-logic.md)
+- [Request and Response Objects](django/request-response.md)
