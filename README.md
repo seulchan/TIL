@@ -100,3 +100,4 @@
 - [View Logic](django/view-logic.md)
 - [Request and Response Objects](django/request-response.md)
 - [Parameters](django/parameters.md)
+- [URL Namespacing and Views](django/url-namespacing.md)
