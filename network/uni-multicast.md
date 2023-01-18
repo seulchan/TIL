@@ -5,6 +5,7 @@
 <img src="../images/cast.png" alt="cast" width="500" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 &nbsp;
+
 ## 유니캐스트
 
 출발지와 목적지가 명확히 하나로 정해져 있는 1:1 통신 방식
