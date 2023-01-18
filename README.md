@@ -20,6 +20,7 @@
 - [Functions in MySql](database/functions.md)
 - [MySql Stored Procedures](database/stored-procedures.md)
 - [Differences between functions and stored procedures](database/function-procedure.md)
+- [MySQL triggers](database/triggers.md)
 
 ## Network
 

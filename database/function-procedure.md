@@ -79,6 +79,8 @@ The following table provides a summary of the key differences between stored pro
 | 5 | Typically encapsulates common formulas or generic business rules | Typically used to process, manipulate and modify data in the database |
 | 6 | Must specify the data type of the return value | User must specify the OUT parameter type| 
 
+&nbsp;
+
 ## Conclusion
 
 Functions and procedures are used to encapsulate code that can be executed to implement repetitive tasks such as equations, formulas or business rules.
