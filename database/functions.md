@@ -188,3 +188,5 @@ Example: The following NULLIF() function returns 10, as it compares the two expr
 ```sql
 SELECT NULLIF(10, 15);
 ```
+
+(source: [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql/))
