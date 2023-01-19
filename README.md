@@ -21,6 +21,7 @@
 - [MySql Stored Procedures](database/stored-procedures.md)
 - [Differences between functions and stored procedures](database/function-procedure.md)
 - [MySQL triggers](database/triggers.md)
+- [Database optimization in practice with SELECT statements](database/optimize-select.md)
 
 ## Network
 
