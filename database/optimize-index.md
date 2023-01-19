@@ -75,3 +75,7 @@ The solution is for Lucky Shrub to create indexes on the columns within the Clie
 ## Conclusion
 
 Indexes help speed up searches on a database by allowing the MySQL query optimizer to execute queries according to the best possible plan. The real performance impact of indexes is best observed in a database that has a large amount of data as opposed to a database that has a small amount of data. It’s important that indexes are created on the correct table columns. Don’t create indexes unnecessarily as they could have a negative impact on data change statements like INSERT, UPDATE and DELETE.
+
+&nbsp;
+
+(source: [Advanced MySQL functions and stored proceduresL](https://www.coursera.org/learn/advanced-mysql-topics))

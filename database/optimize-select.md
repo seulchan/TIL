@@ -197,3 +197,7 @@ The rows column indicates that only one row was examined to produce the output. 
 
 Conclusion
 Running SELECT queries with an EXPLAIN statement is a helpful method for optimizing SELECT queries in practice. Attention needs to be paid to the type, possible_keys, keys, ref and rows columns in the EXPLAIN statement results that indicate specific issues in a SELECT query that require optimization.
+
+&nbsp;
+
+(source: [Advanced MySQL functions and stored proceduresL](https://www.coursera.org/learn/advanced-mysql-topics))
