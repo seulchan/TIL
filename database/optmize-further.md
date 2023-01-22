@@ -97,4 +97,4 @@ The prepared statement supports database security and allows you to reuse the sa
 
 &nbsp;
 
-(source: [Advanced MySQL functions and stored proceduresL](https://www.coursera.org/learn/advanced-mysql-topics))
+(source: [Advanced MySQL functions and stored procedures](https://www.coursera.org/learn/advanced-mysql-topics))

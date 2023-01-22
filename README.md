@@ -24,6 +24,7 @@
 - [Database optimization in practice with SELECT statements](database/optimize-select.md)
 - [Database optimization in practice with indexes](database/optimize-index.md)
 - [Further optimization techniques](database/optmize-further.md)
+- [Database Clients](database/clients.md)
 
 ## Network
 
