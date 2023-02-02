@@ -59,6 +59,7 @@
 - [웹 애플리케이션 모델](web-dev/web-application-model.md)
 - [MVC 디자인 패턴](web-dev/mvc-design-pattern.md)
 - [답변형 게시판 MVC 구조](web-dev/board-mvc.md)
+- [모놀리식 아키텍처](web-dev/monolithic-architecture.md)
 
 ## Servlet
 
