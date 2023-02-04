@@ -91,6 +91,7 @@
 - [Spring 의존성 주입](spring/spring-di.md)
 - [Spring AOP](spring/spring-aop.md)
 - [Spring MVC](spring/spring-mvc.md)
+- [Spring Bean](spring/spring-bean.md)
 - [마이바티스](spring/mybatis.md)
 - [Transaction](spring/transaction.md)
 
