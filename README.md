@@ -94,6 +94,7 @@
 - [Spring Bean](spring/spring-bean.md)
 - [마이바티스](spring/mybatis.md)
 - [Transaction](spring/transaction.md)
+- [의존성 주입](spring/dependency-injection.md)
 
 ## Version Control
 
