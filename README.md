@@ -50,6 +50,7 @@
 - [라우터](network/router.md)
 - [로드 밸런서/방화벽](network/load-balancer-firewall.md)
 - [DNS](network/DNS.md)
+- [GSLB](network/GSLB.md)
 
 ## Java
 
