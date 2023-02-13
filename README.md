@@ -112,6 +112,7 @@
 - [OOP Principles](dev/oop.md)
 - [Inheritance and Multiple Inheritance](dev/multi-inheritance.md)
 - [Modules, libraries and packages](dev/mlp.md)
+- [오브젝트의 동일성과 동등성](dev/equality.md)
 
 ## Django
 
